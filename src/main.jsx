@@ -8,16 +8,16 @@ const FALLBACK_IMAGE = "/food-placeholder.svg";
 const LOGO_IMAGE = "/Image%20of%20Logo.png";
 
 const fallbackMenu = [
-  ["B001", "Fry Biryani (Bilal Resturent)", 210, "Biryani"],
-  ["B002", "Mixed Biryani (Bilal Resturent)", 210, "Biryani"],
-  ["B003", "Dum Biryani (Bilal Resturent)", 200, "Biryani"],
+  ["B001", "Fry Biryani (Bilal Restaurant)", 210, "Biryani"],
+  ["B002", "Mixed Biryani (Bilal Restaurant)", 210, "Biryani"],
+  ["B003", "Dum Biryani (Bilal Restaurant)", 200, "Biryani"],
   ["V001", "Veg Fried Rice", 110, "Veg Fast Food"],
   ["V002", "Veg Noodles", 110, "Veg Fast Food"],
   ["V003", "Veg Manchurian", 120, "Veg Fast Food"],
   ["V004", "Veg Manchurian Noodles", 120, "Veg Fast Food"],
   ["F001", "Chicken Manchurian Fried Rice", 150, "Fast Food"],
   ["F002", "Chicken Fried Rice", 120, "Fast Food"],
-  ["F003", "Chicken Shawarma (Bilal Resturent)", 120, "Fast Food"],
+  ["F003", "Chicken Shawarma (Bilal Restaurant)", 120, "Fast Food"],
   ["F004", "Egg Noodles", 120, "Fast Food"],
   ["F005", "Egg Fried Rice", 120, "Fast Food"],
   ["F006", "Egg Manchurian Fried Rice", 130, "Fast Food"],
